@@ -1,0 +1,8 @@
+*.pyc
+*.pot
+*.log
+/static
+__pycache__/
+local_settings.py
+db.sqlit3
+/media
